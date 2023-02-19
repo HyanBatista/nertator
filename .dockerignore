@@ -1,0 +1,17 @@
+# Git
+.git
+.gitignore
+
+# Docker
+.docker
+
+# Python
+nertator/__pycache__/
+nertator/*/__pycache__/
+nertator/*/*/__pycache__/
+nertator/*/*/*/__pycache__/
+nertator/*/*/*/*/__pycache__/
+.env
+.env/
+.venv/
+venv/
